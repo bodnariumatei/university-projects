@@ -1,0 +1,10 @@
+0,Billie Jean,M. Jackson,8
+1,Bad,M. Jackson,7
+2,Satisfaction,The Rolling Stones,9
+3,Yesterday,The Beatles,8
+4,Don't stop me now,Queen,5
+5,Godzilla,Eminem,6
+6,Don't stop believing,Journey,7
+7,Patient is the night,OTGW, 10
+8,Into the unknown,OTGW,9
+9,Brothers under the sun,Bryan Adams,8
