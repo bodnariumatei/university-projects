@@ -17,3 +17,8 @@ socialnetwork
   - mock up of a social network platform that allows users to connect to the platform and with each other and communicate through chats
   - application developed in Java, with GUI in JavaFX using SceneBuilder
   - memory persistance using a PostreSQL database
+  
+Basketball Manager
+  - application for managing basketball teams and games
+  - developed in C#
+  - proof of concept for Layered Architecture Framework and Generics, Delegates, LINQ in C#
