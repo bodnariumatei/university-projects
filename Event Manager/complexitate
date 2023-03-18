@@ -1,0 +1,10 @@
+Complexitate funcția 'find' din PeopleRepository:
+
+        Caz favorabil: -elementul căutat este primul => T(n) = 1 ∈ Theta(1)
+
+        Caz defavorabi: -elementul căutat nu există => T(n) = n ∈ Theta(n)
+
+        Caz mediu: Probabilitatea ca for-ul să ruleze de 1,2,...,n ori este aceeași => 𝑇(𝑛) = (1 + 2+. . . +𝑛)⁄𝑛 = (𝑛 + 1)⁄2 → 𝑇(𝑛) ∈ 𝛩(𝑛)
+
+        Overall Complexity:  𝛩(𝑛)
+
