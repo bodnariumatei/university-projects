@@ -1,0 +1,60 @@
+101 - Popescu Ion - Scoala Gimnaziala “Horea” - 1
+102 - Popescu Marcel - Scoala Gimnaziala “Horea” - 1
+103 - Ionescu Mitica - Scoala Gimnaziala “Horea” - 1
+104 - Georgescu George - Scoala Gimnaziala “Horea” - 1
+105 - Georgescu Mihai - Scoala Gimnaziala “Horea” - 1
+106 - Slavici Ioan - Scoala Gimnaziala “Horea” - 1
+107 - Creanga Ion - Scoala Gimnaziala “Horea” - 1
+108 - Eminovici Mihai - Scoala Gimnaziala “Horea” - 1
+109 - Aprogramatoarei Ionel - Scoala Gimnaziala “Horea” - 1
+110 - Apreotesei Silviu - Scoala Gimnaziala “Horea” - 1
+111 - Ion Ion - Scoala Gimnaziala “Horea” - 1
+112 - Andrei Andrei - Scoala Gimnaziala “Horea” - 1
+113 - Kogalniceanu Mihail - Scoala Gimnaziala “Horea” - 1
+114 - Dragobete Valentin - Scoala Gimnaziala “Horea” - 1
+115 - Mac Bil Bob Constantin - Scoala Gimnaziala “Horea” - 1
+201 - Mihailescu Mihai - Scoala Gimnaziala "Octavian Goga" - 2
+202 - Andreescu Andrei - Scoala Gimnaziala "Octavian Goga" - 2
+203 - Vasilescu Vasile - Scoala Gimnaziala "Octavian Goga" - 2
+204 - Popescu Popel - Scoala Gimnaziala "Octavian Goga" - 2
+205 - Ionescu Ionel - Scoala Gimnaziala "Octavian Goga" - 2
+206 - Mihailescu Vasile - Scoala Gimnaziala "Octavian Goga" - 2
+207 - Andreescu Iosif - Scoala Gimnaziala "Octavian Goga" - 2
+208 - Vasilescu Stefan - Scoala Gimnaziala "Octavian Goga" - 2
+209 - Popescu Costel - Scoala Gimnaziala "Octavian Goga" - 2
+210 - Ionescu Horea - Scoala Gimnaziala "Octavian Goga" - 2
+211 - Georgescu Vali - Scoala Gimnaziala "Octavian Goga" - 2
+212 - Stefanescu Stefan - Scoala Gimnaziala "Octavian Goga" - 2
+213 - Gavrilescu Gabi - Scoala Gimnaziala "Octavian Goga" - 2
+214 - Alexandrescu Alex - Scoala Gimnaziala "Octavian Goga" - 2
+215 - Amariei Alex - Scoala Gimnaziala "Octavian Goga" - 2
+301 - Shelby Thomas - Liceul Teoretic "Lucian Blaga" - 3
+302 - Shelby Arthur - Liceul Teoretic "Lucian Blaga" - 3
+303 - Shelby John - Liceul Teoretic "Lucian Blaga" - 3
+304 - Stirling David - Liceul Teoretic "Lucian Blaga" - 3
+305 - Mayne Paddy - Liceul Teoretic "Lucian Blaga" - 3
+306 - Lewes Jock - Liceul Teoretic "Lucian Blaga" - 3
+307 - Summner Patrick - Liceul Teoretic "Lucian Blaga" - 3
+308 - Drax Henry - Liceul Teoretic "Lucian Blaga" - 3
+309 - Cavendish Michael - Liceul Teoretic "Lucian Blaga" - 3
+310 - Arsene Lupin - Liceul Teoretic "Lucian Blaga" - 3
+311 - Lothbrok Ragnar - Liceul Teoretic "Lucian Blaga" - 3
+312 - Lothbrok Ivar - Liceul Teoretic "Lucian Blaga" - 3
+313 - Ironside Bjorn - Liceul Teoretic "Lucian Blaga" - 3
+314 - Sanchez Rick - Liceul Teoretic "Lucian Blaga" - 3
+315 - Lannister Jaime - Liceul Teoretic "Lucian Blaga" - 3
+401 - Greenleaf Legolas - Scoala Gimnaziala "Ioan Bob" - 4
+402 - Baggins Bilbo - Scoala Gimnaziala "Ioan Bob" - 4
+403 - Baggins Frodo - Scoala Gimnaziala "Ioan Bob" - 4
+404 - Oakshield Thorin - Scoala Gimnaziala "Ioan Bob" - 4
+405 - Darth Vader - Scoala Gimnaziala "Ioan Bob" - 4
+406 - Skywalker Luke - Scoala Gimnaziala "Ioan Bob" - 4
+407 - Potter Harry - Scoala Gimnaziala "Ioan Bob" - 4
+408 - Malfoy Draco - Scoala Gimnaziala "Ioan Bob" - 4
+409 - Stark Tony - Scoala Gimnaziala "Ioan Bob" - 4
+410 - Wayne Bruce - Scoala Gimnaziala "Ioan Bob" - 4
+411 - Rogers Steve - Scoala Gimnaziala "Ioan Bob" - 4
+412 - Sparrow Jack - Scoala Gimnaziala "Ioan Bob" - 4
+413 - Allen Barry - Scoala Gimnaziala "Ioan Bob" - 4
+414 - Bond James - Scoala Gimnaziala "Ioan Bob" - 4
+415 - Turner Will - Scoala Gimnaziala "Ioan Bob" - 4
