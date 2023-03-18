@@ -1,0 +1,11 @@
+COM1, The Good Place, fantasy comedy, 53
+THR1, Mindhunter, psychological thriller, 19
+FAN4, The Witcher, fantasy drama, 8
+CD32, The Marvelous Mrs. Maisel, comedy drama, 26
+RO22, Umbre, drama, 21
+TES1, See, action drama, 16
+ANM0, Arcane, action drama, 9
+FAE5, Carnival Row, drama fantasy, 8
+MY24, Sherlock, mystery drama, 12
+FNT8, Sweet Tooth, fantasy drama, 8
+MRD7, Taboo, drama thriller, 9
